@@ -2,8 +2,9 @@
 library for colored output in unix terminals
 
 
-#usage
-# #include "color.hpp"
+# usage
+
+#include "color.hpp"
 
 std::cout << red;
 std::cout << "this is in red\n";
