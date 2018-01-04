@@ -10,6 +10,8 @@ std::cout << red;
 std::cout << "this is in red\n";
 std::cout << green;
 std::cout << "this is in green\n";
+std::cout << boldgreen;
+std::cout << "this is bold green text\n"
 std::cout << reset;
 std::cout << "back to normal\n";
 ```
