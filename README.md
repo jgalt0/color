@@ -3,7 +3,7 @@ library for colored output in unix terminals
 
 
 # usage
-```c
+```c++
 #include "color.hpp"
 
 std::cout << red;
