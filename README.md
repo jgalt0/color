@@ -11,5 +11,5 @@ std::cout << "this is in red\n";
 std::cout << green;
 std::cout << "this is in green\n";
 std::cout << reset;
-std::cout << "back to normal";
+std::cout << "back to normal\n";
 ```
